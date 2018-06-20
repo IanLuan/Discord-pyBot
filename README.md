@@ -14,3 +14,6 @@ Structures List:
 - Weather (Type !weather + city (e.g !weather New York) )
 - Youtube Count (Type !yt + youtube username (e.g. !yt pewdiepie) )
 - More soon
+
+# For Future
+A Bot Builder App to generate bots easily.
