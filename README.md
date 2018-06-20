@@ -17,3 +17,6 @@ Structures List:
 
 # For Future
 A Bot Builder App to generate bots easily.
+
+# Attention!
+If you have chosen a structure that uses a library, You must download it and import it into your project.
