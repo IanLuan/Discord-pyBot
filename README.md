@@ -19,4 +19,7 @@ Structures List:
 A Bot Builder App to generate bots easily.
 
 # Attention!
-If you have chosen a structure that uses a library, You must download it and import it into your project.
+### 1- If you have chosen a structure that uses a library, You must download it and import it into your project.
+
+### 2- You have to create your bot on https://discordapp.com/developers and save the TOKEN. Then go to the code and change "YOUR TOKEN" for the TOKEN that you saved.
+
